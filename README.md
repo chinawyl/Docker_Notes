@@ -6,3 +6,4 @@
 
 ##### Docker的Centos7安装教程:<https://docs.docker.com/install/linux/docker-ce/centos/>
 
+##### Docker的详细安装和阿里云加速器配置教程<https://blog.csdn.net/qq_28513801/article/details/93381492>
