@@ -10,7 +10,11 @@
 
 ### 二、容器技术的优势
 
+<<<<<<< HEAD:1-Docker简介/Docker简介.md
 ![001](D:\Docker_Notes\1-Docker简介\001.png)
+=======
+![001](001.png)
+>>>>>>> 5d8bbc03cc8bb1aa5b8385df4ca850b950a5d420:Docker简介/Docker简介.md
 
 ##### 1.磁盘占用空间更少(减少了硬件等资源加载，直接为docker引擎)
 
